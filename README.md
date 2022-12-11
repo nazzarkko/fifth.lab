@@ -1,4 +1,5 @@
-# It`s my fifth lab. Here we have 5 candidates for elections. I create
+# It`s my fifth lab. 
+Here we have 5 candidates for elections. I create
 a program that allows the user to enter the names of five candidates 
 in local elections and the number of votes received by each candidate 
 (class Candidate) and class Elections, which contains a set of candidates
